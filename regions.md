@@ -20,3 +20,16 @@ Most of the counties of Lancashire and Cheshire that does not lie within either 
 
 ## Lake District
 
+Bounded by the Solway Firth to the north then the M6 on the east until the A590 cuts to the Leven Estuary/Morecambe Bay in the south. The rest of the boundary is the coast.
+
+## Northern England
+
+The northern boundary is the Scottish border and sits to the east of the M6 and north of the A66.
+
+## North York Moors
+
+Bounded on the north by the A66, the coast to the east, the A64 to the south and the A1(M) to the west.
+
+## Scotland
+
+Everything north of the border!
