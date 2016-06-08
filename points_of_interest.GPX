@@ -1,0 +1,1568 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1" creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2016-06-01T19:00:15Z</time>
+    <bounds maxlat="54.455647515133023" maxlon="-1.703203143551946" minlat="53.957349993288517" minlon="-2.815985362976789"/>
+  </metadata>
+
+  <wpt lat="54.068604419007897" lon="-2.27636044844985">
+    <time>2016-05-28T06:59:56Z</time>
+    <name>3 Peaks Cycles</name>
+    <cmt>Open: 0900-1730, Sat 0900-1700, Sun 1000-1600
+Phone: 01729 824232
+Website: http://www.3peakscycles.com/
+Routes: Pennine Bridleway</cmt>
+    <desc>Open: 0900-1730, Sat 0900-1700, Sun 1000-1600
+Phone: 01729 824232
+Website: http://www.3peakscycles.com/
+Routes: Pennine Bridleway</desc>
+    <sym>Bike Trail</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T06:59:56Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.153989525511861" lon="-2.46661925688386">
+    <time>2016-06-01T18:01:06Z</time>
+    <name>Bernies Cafe, Ingleton</name>
+    <cmt>Open:
+Phone:
+Website</cmt>
+    <desc>Open:
+Phone:
+Website</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-06-01T18:01:06Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.152527721598744" lon="-2.303654188290238">
+    <time>2016-05-29T07:27:00Z</time>
+    <name>Blind Beck Cafe</name>
+    <cmt>Open:
+Phone:</cmt>
+    <desc>Open:
+Phone:</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-29T07:27:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.322118768468499" lon="-1.949885571375489">
+    <time>2016-05-28T20:00:55Z</time>
+    <name>Bolton Castle Tea rooms</name>
+    <cmt>Open: 0900 - 1630
+Phone: 01969 623981
+Website: http://www.boltoncastle.co.uk/wensleydale-tea-rooms/</cmt>
+    <desc>Open: 0900 - 1630
+Phone: 01969 623981
+Website: http://www.boltoncastle.co.uk/wensleydale-tea-rooms/</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T20:00:55Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.191114734858274" lon="-2.090537343174219">
+    <time>2016-05-29T06:56:40Z</time>
+    <name>Buckden Village Stores</name>
+    <cmt>Open: 
+Phone: 01756 760257</cmt>
+    <desc>Open: 
+Phone: 01756 760257</desc>
+    <sym>Convenience Store</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-29T06:56:40Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.191715717315674" lon="-2.089998722076416">
+    <time>2016-05-18T20:30:45Z</time>
+    <name>Bucken toilets</name>
+    <cmt>Water tap on outside of building</cmt>
+    <desc>Water tap on outside of building</desc>
+    <sym>Drinking Water</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-18T20:30:45Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.377292059361935" lon="-2.815583199262619">
+    <time>2016-06-01T18:44:38Z</time>
+    <name>Building</name>
+    <cmt>Building</cmt>
+    <desc>Building</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-06-01T18:44:38Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.063238324597478" lon="-1.960755977779627">
+    <time>2016-06-01T18:24:13Z</time>
+    <name>Building Boundary</name>
+    <cmt>Building Boundary</cmt>
+    <desc>Building Boundary</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-06-01T18:24:13Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.376788893714547" lon="-2.815985362976789">
+    <time>2016-06-01T18:47:32Z</time>
+    <name>Building Boundary1</name>
+    <cmt>Building Boundary</cmt>
+    <desc>Building Boundary</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-06-01T18:47:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.322352036833763" lon="-1.950328052043915">
+    <time>2016-05-28T20:00:05Z</time>
+    <name>Castle Bolton toilets</name>
+    <cmt>Water tap (spigot) on outside wall.</cmt>
+    <desc>Water tap (spigot) on outside wall.</desc>
+    <sym>Drinking Water</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T20:00:05Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.993234848603606" lon="-1.883649174124002">
+    <time>2016-06-01T18:16:37Z</time>
+    <name>Cavendish Pavilion</name>
+    <cmt>Open:
+Phone:
+Website</cmt>
+    <desc>Open:
+Phone:
+Website</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-06-01T18:16:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.962491368874907" lon="-2.016076454892755">
+    <time>2016-05-28T06:48:05Z</time>
+    <name>Chevin Cycles</name>
+    <cmt>Open: 0900-1800, Sat 0900-1730, Sun 1000-1600
+Phone: 0800 234 186
+Website: http://www.chevincycles.com/skipton/</cmt>
+    <desc>Open: 0900-1800, Sat 0900-1730, Sun 1000-1600
+Phone: 0800 234 186
+Website: http://www.chevincycles.com/skipton/</desc>
+    <sym>Bike Trail</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T06:48:05Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.069167012348771" lon="-2.276327339932323">
+    <time>2016-05-29T07:17:03Z</time>
+    <name>Co-op, Settle</name>
+    <cmt>Open: 0700-2200, Sun 1000-1600</cmt>
+    <desc>Open: 0700-2200, Sun 1000-1600</desc>
+    <sym>Convenience Store</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-29T07:17:03Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.036314561963081" lon="-2.036654613912106">
+    <time>2016-05-28T07:36:46Z</time>
+    <name>Cracoe's Cafe</name>
+    <cmt>Open: 1000-2300
+Phone: 01756 730228
+Website: http://cracoes.co.uk/</cmt>
+    <desc>Open: 1000-2300
+Phone: 01756 730228
+Website: http://cracoes.co.uk/</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T07:36:46Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.384744828566909" lon="-1.930370153859258">
+    <time>2016-05-18T20:16:16Z</time>
+    <name>Dales Bike Centre</name>
+    <cmt>Open: 0930 - 1700
+Phone: 01748 884908
+Website : http://www.dalesbikecentre.co.uk/
+Routes: YD300</cmt>
+    <desc>Open: 0930 - 1700
+Phone: 01748 884908
+Website : http://www.dalesbikecentre.co.uk/
+Routes: YD300</desc>
+    <sym>Bike Trail</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-18T20:16:16Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.961857864633203" lon="-2.014526724815369">
+    <time>2016-05-28T06:50:42Z</time>
+    <name>Dave Ferguson's Cycles</name>
+    <cmt>Open: 0930-1730, Sun 1100-1630
+Phone: 01763 795367
+Website: http://www.davefergusoncycles.com/</cmt>
+    <desc>Open: 0930-1730, Sun 1100-1630
+Phone: 01763 795367
+Website: http://www.davefergusoncycles.com/</desc>
+    <sym>Bike Trail</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T06:50:42Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.036532491445541" lon="-2.035645013675094">
+    <time>2016-05-28T07:37:57Z</time>
+    <name>Devonshire Arms, Cracoe</name>
+    <cmt>Phone: 01763 730237
+Website: http://www.devonshirearmscracoe.com/</cmt>
+    <desc>Phone: 01763 730237
+Website: http://www.devonshirearmscracoe.com/</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T07:37:57Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.104730254039168" lon="-2.322853188961744">
+    <time>2016-05-28T07:31:47Z</time>
+    <name>Elaine's Tea Room, Feizor</name>
+    <cmt>Open: 0930-1700
+Phone: 01729 824114
+Website:
+Routes: Pennine Bridleway, YD300, YD200(2015)</cmt>
+    <desc>Open: 0930-1700
+Phone: 01729 824114
+Website:
+Routes: Pennine Bridleway, YD300, YD200(2015)</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T07:31:47Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.163366947323084" lon="-2.511965688318014">
+    <time>2016-05-28T06:57:34Z</time>
+    <name>Escape Bikes</name>
+    <cmt>Open:
+Phone: 01524 241226
+Website: http://www.escapebikeshop.com/</cmt>
+    <desc>Open:
+Phone: 01524 241226
+Website: http://www.escapebikeshop.com/</desc>
+    <sym>Bike Trail</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T06:57:34Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.120230488479137" lon="-2.020549373701215">
+    <time>2016-05-18T20:32:19Z</time>
+    <name>Footpath</name>
+    <cmt>Footpath</cmt>
+    <desc>Footpath</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-18T20:32:19Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.15417761541903" lon="-2.467023599892855">
+    <time>2016-06-01T18:00:22Z</time>
+    <name>Inglesports Cafe, Ingleton</name>
+    <cmt>Open:
+Phone:
+Website</cmt>
+    <desc>Open:
+Phone:
+Website</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-06-01T18:00:22Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.146608002483845" lon="-2.049600966274738">
+    <time>2016-05-18T20:23:04Z</time>
+    <name>Kettlewell toilets</name>
+    <cmt>Tap outside public toilets</cmt>
+    <desc>Tap outside public toilets</desc>
+    <sym>Drinking Water</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-18T20:23:04Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.104774929583073" lon="-2.042059516534209">
+    <time>2016-05-18T17:30:19Z</time>
+    <name>Kilnsey Trout Farm</name>
+    <cmt>Building Boundary</cmt>
+    <desc>Building Boundary</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-18T17:30:19Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.313197657465935" lon="-1.835538055747747">
+    <time>2016-05-29T07:10:06Z</time>
+    <name>Leyburn Bikes</name>
+    <cmt>Open:
+Phone: 01969 623565
+Website: http://www.leyburnbikes.com/</cmt>
+    <desc>Open:
+Phone: 01969 623565
+Website: http://www.leyburnbikes.com/</desc>
+    <sym>Bike Trail</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-29T07:10:06Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.293108247220516" lon="-1.984719168394804">
+    <time>2016-05-28T20:04:52Z</time>
+    <name>Mill Race Tea Shop, Aysgarth Falls</name>
+    <cmt>Open:
+Phone: 01969 663446
+Website: http://www.themillraceteashop.co.uk/</cmt>
+    <desc>Open:
+Phone: 01969 663446
+Website: http://www.themillraceteashop.co.uk/</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T20:04:52Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.377269679680467" lon="-2.814416354522109">
+    <time>2016-06-01T18:44:04Z</time>
+    <name>More</name>
+    <cmt>Open:
+Phone:
+Website:</cmt>
+    <desc>Open:
+Phone:
+Website:</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-06-01T18:44:04Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.294529901817441" lon="-1.983297094702721">
+    <time>2016-05-28T20:03:00Z</time>
+    <name>National Park Centre Aysgarth Falls cafe</name>
+    <cmt>Open: 0900-1700
+Phone: 01969 662910
+Website: http://www.yorkshiredales.org.uk/visit-the-dales/essential-information/tourist-information/aysgarth-falls-national-park-centre</cmt>
+    <desc>Open: 0900-1700
+Phone: 01969 662910
+Website: http://www.yorkshiredales.org.uk/visit-the-dales/essential-information/tourist-information/aysgarth-falls-national-park-centre</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T20:03:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.149107234552503" lon="-2.295840326696634">
+    <time>2016-05-30T13:28:15Z</time>
+    <name>National Park toilets, Horton in Ribblesdale</name>
+    <cmt>Water tap (spigot) on outside of building.</cmt>
+    <desc>Water tap (spigot) on outside of building.</desc>
+    <sym>Drinking Water</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-30T13:28:15Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.084369521588087" lon="-1.762315006926656">
+    <time>2016-05-18T20:36:56Z</time>
+    <name>Pateley Bridge Filling station</name>
+    <cmt>Open: 0700 - 2200
+Phone: 01423 712437</cmt>
+    <desc>Open: 0700 - 2200
+Phone: 01423 712437</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-18T20:36:56Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.147880375385284" lon="-2.29515066370368">
+    <time>2016-05-29T07:24:47Z</time>
+    <name>Penyghent Cafe</name>
+    <cmt>Open: 0900-1730, closed Tuesdays, opens at 0800 Sat &amp; Sun
+Phone: 01729 860333
+Website: http://www.horton-in-ribblesdale.com/pen-y-ghent-cafe.shtml</cmt>
+    <desc>Open: 0900-1730, closed Tuesdays, opens at 0800 Sat &amp; Sun
+Phone: 01729 860333
+Website: http://www.horton-in-ribblesdale.com/pen-y-ghent-cafe.shtml</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-29T07:24:47Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.417853681370616" lon="-1.993874805048108">
+    <time>2016-05-30T13:42:47Z</time>
+    <name>Red Lion, Langthwaite</name>
+    <cmt>Phone: 01748 884218
+Website: http://www.langthwaite-redlion.co.uk/
+Routes: YD300</cmt>
+    <desc>Phone: 01748 884218
+Website: http://www.langthwaite-redlion.co.uk/
+Routes: YD300</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-30T13:42:47Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.957349993288517" lon="-2.032647728919983">
+    <time>2016-05-18T20:10:29Z</time>
+    <name>Riders Cycle Centre</name>
+    <cmt>Open: 0900-1700 (closed Sunday)
+Phone:
+Website:</cmt>
+    <desc>Open: 0900-1700 (closed Sunday)
+Phone:
+Website:</desc>
+    <sym>Bike Trail</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-18T20:10:29Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.315430261194706" lon="-2.079758048057556">
+    <time>2016-05-18T20:46:22Z</time>
+    <name>Stage 1 Cycles</name>
+    <cmt>Open
+Phone: 01969 666873
+Website: https://www.stage1cycles.co.uk/</cmt>
+    <desc>Open
+Phone: 01969 666873
+Website: https://www.stage1cycles.co.uk/</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-18T20:46:22Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.315475272014737" lon="-2.079605245962739">
+    <time>2016-05-29T07:06:09Z</time>
+    <name>Stage 1 Cycles, Askrigg</name>
+    <cmt>Open:
+Phone: 01969 666873
+Website: https://www.stage1cycles.co.uk/
+Routes: YD300</cmt>
+    <desc>Open:
+Phone: 01969 666873
+Website: https://www.stage1cycles.co.uk/
+Routes: YD300</desc>
+    <sym>Bike Trail</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-29T07:06:09Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.062128560617566" lon="-1.703203143551946">
+    <time>2016-05-29T07:13:06Z</time>
+    <name>Stif Cycles</name>
+    <cmt>Open:
+Phone: 01423 780738
+Website: http://www.stif.co.uk/</cmt>
+    <desc>Open:
+Phone: 01423 780738
+Website: http://www.stif.co.uk/</desc>
+    <sym>Bike Trail</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-29T07:13:06Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.455647515133023" lon="-2.160422131419182">
+    <time>2016-06-01T18:34:54Z</time>
+    <name>Tan Hill Inn</name>
+    <cmt>Phone:
+Website:</cmt>
+    <desc>Phone:
+Website:</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-06-01T18:34:54Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.188687084242702" lon="-2.089565042406321">
+    <time>2016-05-29T06:53:03Z</time>
+    <name>Tanglewood Teas, Buckden</name>
+    <cmt>Open: 1100 - 1630 Easter to October
+Phone: 01756 761414
+Website: http://www.tanglewoodteas.co.uk/</cmt>
+    <desc>Open: 1100 - 1630 Easter to October
+Phone: 01756 761414
+Website: http://www.tanglewoodteas.co.uk/</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-29T06:53:03Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.106578966602683" lon="-2.040347512811422">
+    <time>2016-05-28T07:17:01Z</time>
+    <name>Tennant Arms, Kilnsey</name>
+    <cmt>Phone: 01756 753946
+Website: http://thetennantsarms.co.uk/</cmt>
+    <desc>Phone: 01756 753946
+Website: http://thetennantsarms.co.uk/</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T07:17:01Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.026285530999303" lon="-2.05958129838109">
+    <time>2016-05-28T07:34:43Z</time>
+    <name>The Angel Inn, Hetton</name>
+    <cmt>Phone: 01756 730263
+Website: http://www.angelhetton.co.uk/</cmt>
+    <desc>Phone: 01756 730263
+Website: http://www.angelhetton.co.uk/</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T07:34:43Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.381698677316308" lon="-1.929540513083339">
+    <time>2016-05-30T13:44:19Z</time>
+    <name>The Bridge Inn, Grinton</name>
+    <cmt>Phone: 01748 884224
+Website: http://www.bridgeinn-grinton.co.uk/
+Routes: YD300, EWE</cmt>
+    <desc>Phone: 01748 884224
+Website: http://www.bridgeinn-grinton.co.uk/
+Routes: YD300, EWE</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-30T13:44:19Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.190363883972168" lon="-2.089964272454381">
+    <time>2016-05-29T06:54:49Z</time>
+    <name>The Buck Inn, Buckden</name>
+    <cmt>Phone: 01756 761401
+Website: http://www.buckinnbuckden.co.uk/</cmt>
+    <desc>Phone: 01756 761401
+Website: http://www.buckinnbuckden.co.uk/</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-29T06:54:49Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.061040924862027" lon="-2.153119565919042">
+    <time>2016-05-28T07:26:13Z</time>
+    <name>The Buck Inn, Malham</name>
+    <cmt>Phone: 01729 830317
+Website: http://thebuckinnmalham.co.uk/</cmt>
+    <desc>Phone: 01729 830317
+Website: http://thebuckinnmalham.co.uk/</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T07:26:13Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.149734284728765" lon="-2.295708730816841">
+    <time>2016-05-30T13:29:16Z</time>
+    <name>The Crown, Horton in Ribblesdale</name>
+    <cmt>Phone: 01729 860209
+Website: http://www.crown-hotel.co.uk/</cmt>
+    <desc>Phone: 01729 860209
+Website: http://www.crown-hotel.co.uk/</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-30T13:29:16Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.142107926309109" lon="-2.106726905331016">
+    <time>2016-05-28T07:22:31Z</time>
+    <name>The Falcon Inn, Arncliffe</name>
+    <cmt>Phone: 01756 770205
+Website: http://www.thefalconinn.com/</cmt>
+    <desc>Phone: 01756 770205
+Website: http://www.thefalconinn.com/</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T07:22:31Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.376320177689195" lon="-2.140821972861886">
+    <time>2016-05-30T13:39:15Z</time>
+    <name>The Farmers Arms, Muker</name>
+    <cmt>Phone: 01748 886297
+Website: http://farmersarmsmuker.co.uk/
+Routes: YD300</cmt>
+    <desc>Phone: 01748 886297
+Website: http://farmersarmsmuker.co.uk/
+Routes: YD300</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-30T13:39:15Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.060339694842696" lon="-2.006321344524622">
+    <time>2016-05-28T07:20:02Z</time>
+    <name>The Fountaine Inn, Linton</name>
+    <cmt>Phone: 01756 752210
+Website: http://www.fountaineinnatlinton.co.uk/</cmt>
+    <desc>Phone: 01756 752210
+Website: http://www.fountaineinnatlinton.co.uk/</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T07:20:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.111908013001084" lon="-2.35758863389492">
+    <time>2016-05-30T13:36:02Z</time>
+    <name>The Game Cock, Austwick</name>
+    <cmt>Phone: 015242 51226
+Website: http://www.gamecockinn.co.uk/
+Routes: Pennine Bridleway, YD300, YD200(2015)</cmt>
+    <desc>Phone: 015242 51226
+Website: http://www.gamecockinn.co.uk/
+Routes: Pennine Bridleway, YD300, YD200(2015)</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-30T13:36:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.199328748509288" lon="-2.114474046975374">
+    <time>2016-05-28T07:14:09Z</time>
+    <name>The George, Hubberholme</name>
+    <cmt>Phone: 01756 760223
+Website: http://www.thegeorge-inn.co.uk/</cmt>
+    <desc>Phone: 01756 760223
+Website: http://www.thegeorge-inn.co.uk/</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T07:14:09Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.3793626409024" lon="-2.075951993465424">
+    <time>2016-05-30T13:40:17Z</time>
+    <name>The King's Head, Gunnerside</name>
+    <cmt>Phone: 01748 886261
+Website: http://www.kingsheadgunnerside.com/
+Routes: YD300</cmt>
+    <desc>Phone: 01748 886261
+Website: http://www.kingsheadgunnerside.com/
+Routes: YD300</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-30T13:40:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.10016069188714" lon="-2.285547768697143">
+    <time>2016-05-29T07:20:58Z</time>
+    <name>The Knight's Table, Stainforth</name>
+    <cmt>Open:
+Phone: 01729 822200
+Website: http://www.knightstainforth.co.uk/</cmt>
+    <desc>Open:
+Phone: 01729 822200
+Website: http://www.knightstainforth.co.uk/</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-29T07:20:58Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.061872912570834" lon="-2.152318507432938">
+    <time>2016-05-28T07:24:23Z</time>
+    <name>The Lister Arms, Malham</name>
+    <cmt>Phone: 01729 830330
+Website: http://listerarms.co.uk/</cmt>
+    <desc>Phone: 01729 830330
+Website: http://listerarms.co.uk/</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T07:24:23Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.019983429461718" lon="-2.255299910902977">
+    <time>2016-05-30T13:18:51Z</time>
+    <name>The Maypole, Long Preston</name>
+    <cmt>Phone: 01729 840219
+Website:
+Routes: Pennine Bridleway</cmt>
+    <desc>Phone: 01729 840219
+Website:
+Routes: Pennine Bridleway</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-30T13:18:51Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.329321756958961" lon="-2.312696669250727">
+    <time>2016-05-29T07:36:47Z</time>
+    <name>The Moorcock Inn</name>
+    <cmt>Phone: 01969 677488
+Website: http://moorcockinn.com/
+Routes: Pennine Bridleway</cmt>
+    <desc>Phone: 01969 677488
+Website: http://moorcockinn.com/
+Routes: Pennine Bridleway</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-29T07:36:47Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.06795859336853" lon="-2.018019882962108">
+    <time>2016-06-01T18:27:28Z</time>
+    <name>The Old Hall, Threshfield</name>
+    <cmt>Phone:
+Website:</cmt>
+    <desc>Phone:
+Website:</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-06-01T18:27:28Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.193812618032098" lon="-2.39530292339623">
+    <time>2016-05-29T07:28:57Z</time>
+    <name>The Old Hill Inn</name>
+    <cmt>Phone: 01524 251256
+Website: http://www.oldhillinn.co.uk/</cmt>
+    <desc>Phone: 01524 251256
+Website: http://www.oldhillinn.co.uk/</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-29T07:28:57Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.063311666250229" lon="-1.960823871195316">
+    <time>2016-06-01T18:21:29Z</time>
+    <name>The Old Schoolhouse, Hebden</name>
+    <cmt>Open:
+Phone:
+Website:</cmt>
+    <desc>Open:
+Phone:
+Website:</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-06-01T18:21:29Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.046735279262066" lon="-1.951999068260193">
+    <time>2016-06-01T18:19:47Z</time>
+    <name>The Red Lion, Burnsall</name>
+    <cmt>Phone:
+Website:</cmt>
+    <desc>Phone:
+Website:</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-06-01T18:19:47Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.271758031100035" lon="-2.35741906799376">
+    <time>2016-05-29T07:34:06Z</time>
+    <name>The Sportsman's Inn, Stonehouses</name>
+    <cmt>Phone: 01539 625282
+Website: http://www.thesportsmansinn.com/</cmt>
+    <desc>Phone: 01539 625282
+Website: http://www.thesportsmansinn.com/</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-29T07:34:06Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.207079997286201" lon="-2.36362561583519">
+    <time>2016-05-29T07:30:34Z</time>
+    <name>The Station Inn, Ribblehead</name>
+    <cmt>Phone: 015242 41274
+Website: http://www.thestationinn.net/</cmt>
+    <desc>Phone: 015242 41274
+Website: http://www.thestationinn.net/</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-29T07:30:34Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.269511345773935" lon="-2.004415383562446">
+    <time>2016-05-29T07:03:54Z</time>
+    <name>The Street Head Inn</name>
+    <cmt>Phone: 01969 663282
+Website: http://www.thestreetheadinn.co.uk/</cmt>
+    <desc>Phone: 01969 663282
+Website: http://www.thestreetheadinn.co.uk/</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-29T07:03:54Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.208761071786284" lon="-2.090302649885416">
+    <time>2016-05-28T07:11:24Z</time>
+    <name>The White Lion, Cray</name>
+    <cmt>Phone: 01756 760262
+Website:</cmt>
+    <desc>Phone: 01756 760262
+Website:</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T07:11:24Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.032411864027381" lon="-2.152689909562469">
+    <time>2016-05-28T07:28:37Z</time>
+    <name>Town End Barn, Airton</name>
+    <cmt>Open: 0930-1700
+Phone: 01729 830902
+Website: http://townendfarmshop.co.uk/</cmt>
+    <desc>Open: 0930-1700
+Phone: 01729 830902
+Website: http://townendfarmshop.co.uk/</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-28T07:28:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.305406007915735" lon="-2.069447049871087">
+    <time>2016-05-18T20:45:15Z</time>
+    <name>Victoria Arms, Worton</name>
+    <cmt>Pub</cmt>
+    <desc>Pub</desc>
+    <sym>Bar</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-18T20:45:15Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.018661770969629" lon="-2.254309169948101">
+    <time>2016-05-30T13:21:24Z</time>
+    <name>Village Stores, Long Preston</name>
+    <cmt>Open:
+Phone: 01729 840335
+Website: http://www.longpreston.info/
+Routes: Pennine Bridleway</cmt>
+    <desc>Open:
+Phone: 01729 840335
+Website: http://www.longpreston.info/
+Routes: Pennine Bridleway</desc>
+    <sym>Convenience Store</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-30T13:21:24Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.377308571711183" lon="-2.815532488748431">
+    <time>2016-06-01T18:45:12Z</time>
+    <name>Wheelbase, Staveley</name>
+    <cmt>Open:
+Phone:
+Website:</cmt>
+    <desc>Open:
+Phone:
+Website:</desc>
+    <sym>Bike Trail</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-06-01T18:45:12Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.377669245004654" lon="-2.814818266779184">
+    <time>2016-06-01T18:43:32Z</time>
+    <name>Wilf's Cafe</name>
+    <cmt>Open:
+Phone:
+Website:</cmt>
+    <desc>Open:
+Phone:
+Website:</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-06-01T18:43:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.068907927721739" lon="-2.277308106422424">
+    <time>2016-05-29T07:18:16Z</time>
+    <name>Ye Olde Naked Man Cafe</name>
+    <cmt>Open:
+Phone: 01729 823230
+Website:</cmt>
+    <desc>Open:
+Phone: 01729 823230
+Website:</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-29T07:18:16Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.146796679124236" lon="-2.047253949567676">
+    <time>2016-05-18T17:21:51Z</time>
+    <name>Zarina's Tea Rooms</name>
+    <cmt>Opening Hours: 1000-1630 (closed Thursday)
+Phone: 01756 761188
+Website: www.zarinaskettlewell.co.uk</cmt>
+    <desc>Opening Hours: 1000-1630 (closed Thursday)
+Phone: 01756 761188
+Website: www.zarinaskettlewell.co.uk</desc>
+    <sym>Restaurant</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-05-18T17:21:51Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+</gpx>
