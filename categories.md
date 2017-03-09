@@ -2,14 +2,17 @@
 
 The points of interest file contains the following categories of locations. Each is shown with an example of the data provided. The fields should be self explanatory.
 
+* Notes about each point should be neutral in tone so comments like "Grumpy owner" or "Excellent homemade food" should not be used. Keep to the facts rather than opinions.
+* If the POI is on or close to one of the routes listed on selfsupporteduk.net then put the name of the route in the "Routes" part.
+* Use the 24hr clock for times.
+* Note closed days
+
 ## Bike Shops
 
 * Open : 0900 - 1700 Closed Mondays
 * Phone : 01234 567890
 * Website : http://www.mybikeshop.co.uk
 * Routes: Pennine Bridleway, YD300
-
-Use the 24hr clock for times.
 
 ## Cafes
 
