@@ -1,6 +1,6 @@
 # mtb-points-of-interest
 
-This is a set of locations that may be of use to bikepackers or those on ITTs, mainly those found at selfsupporteduk.net. The initial set is based around the ITT routes but isn't exclusive to them.
+This is a set of locations that may be of use to bikepackers or those on ITTs, mainly those found at selfsupporteduk.net. The initial set is based around those ITT routes but isn't exclusive to them.
 
 ## Files
 
@@ -30,11 +30,11 @@ It is easiest to use a program like Garmin Basecamp to generate these.
 
 ## Git/GitHub Workflow
 
-If you don't know how to work with GitHub then have a read of the tutorials, you will need to register with GitHub (free) and have either a GUI program that wraps Git or be able to use Git at the command line.
+If you don't know how to work with GitHub then have a read of the tutorials, you will need to register with GitHub (free) and have either a GUI program that runs Git for you or be able to use Git at the command line.
 
 The basic sequence is:
 
-* In GitHub create a branch with a sensible name, "wales-1" for example, has to be unique
+* In GitHub create a branch with a sensible name based on the region you are editing, "wales-fred-1" for example, has to be unique so add your initials or name.
 * On your machine run "git pull" to get the latest version from GitHub which will include your new branch.
 * Change to the new branch: "git checkout wales-1"
 * Do your changes.
